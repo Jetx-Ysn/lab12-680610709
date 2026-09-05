@@ -44,7 +44,7 @@ export default function TodolistPage() {
               </nav>
             </div>
             <div>
-              <p className="text-white">chanadda :admin</p>
+              <p className="text-white">ยศนนท์ : 680610709</p>
             </div>
           </aside>
         </div>
@@ -140,7 +140,7 @@ export default function TodolistPage() {
           {/* ── 5) Footer (รับ props year, fullName, studentId) ─────────────── */}
           <footer className="text-center w-100">
             <p className="text-white bg-secondary p-4 m-0">
-              Copyright © 2026 chanadda thanyaratthanon 6706200999
+              Copyright © 2026 ยศนนท์ อิ่มเสมอ 680610709
             </p>
           </footer>
         </div>

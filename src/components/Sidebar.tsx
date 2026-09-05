@@ -7,7 +7,7 @@ export default function Sidebar() {
       className="d-flex flex-column p-4 bg-primary min-vh-100"
       data-bs-theme="dark"
     >
-      <p className="text-white">TODO: Sidebar</p>
+      <p className="text-white">ยศนนท์ : admin</p>
     </aside>
   );
 }
